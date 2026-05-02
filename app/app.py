@@ -12,7 +12,7 @@ def home():
         "author": "Marcos Barbosa",
         "status": "healthy",
         "hostname": socket.gethostname(),
-        "version": os.getenv("APP_VERSION", "1.0.0"),
+        "version": os.getenv("APP_VERSION", "1.1.0"),
         "timestamp": datetime.now(timezone.utc).isoformat()
     })
 
