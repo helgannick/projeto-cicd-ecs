@@ -1,0 +1,14 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+crash.log
+
+__pycache__/
+*.pyc
+.env
+venv/
+
+.DS_Store
+Thumbs.db
