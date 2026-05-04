@@ -39,7 +39,7 @@ App rodando na internet via ALB
  
 ## 🏗️ Arquitetura
  
-    <img src="docs/CI_CDPipelineGitHubActionsECSFargate.drawio.png" width="600"/>
+<img src="docs/CI_CDPipelineGitHubActionsECSFargate.drawio.png" width="600"/>
  
 ---
 
